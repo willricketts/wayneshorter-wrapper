@@ -9,8 +9,8 @@ npm install wayneshorter --save
 
 ## Usage
 ```
-var wayneShorter = require('wayneShorter');
-wayneShorter.shorten('http://google.com', function(err, result) {
+var wayneshorter = require('wayneshorter');
+wayneshorter.shorten('http://google.com', function(err, result) {
   // PARSED RESULT OBJECT
 });
 ```
