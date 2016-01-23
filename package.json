@@ -1,6 +1,15 @@
 {
   "name": "wayneshorter",
   "version": "0.1.0",
+  "author": "@willricketts",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/willricketts/wayneshorter-wrapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/willricketts/wayneshorter-wrapper/issues"
+  },
+  "homepage": "https://github.com/willricketts/wayneshorter-wrapper#readme",
   "description": "API wrapper for WayneShorter link shortening service",
   "main": "index.js",
   "scripts": {
@@ -10,10 +19,10 @@
     "link",
     "shortener",
     "url",
-    "shortener",
-    "url",
     "tiny",
-    "link"
+    "link",
+    "shortlink",
+    "wayneshorter"
   ],
   "author": "@willricketts",
   "license": "GPL-3.0",
