@@ -32,7 +32,7 @@ describe('WayneShorter', function() {
     });
   });
   
-  describe('validateInput', function() {
+  describe('#validateInput()', function() {
     var goodUrl = "http://google.com";
     var badUrl = "hellothisisdog";
     it('should return an error if an invalid URL is provided', function() {
