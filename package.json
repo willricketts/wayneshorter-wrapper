@@ -1,6 +1,6 @@
 {
   "name": "wayneshorter",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "author": "@willricketts",
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
   },
   "homepage": "https://github.com/willricketts/wayneshorter-wrapper#readme",
   "description": "API wrapper for WayneShorter link shortening service",
-  "main": "index.js",
+  "main": "wayneshorter.js",
   "scripts": {
     "test": "mocha"
   },
